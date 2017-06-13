@@ -2,3 +2,5 @@
 
 # Pycharm editor project files
 .idea
+
+.cache
